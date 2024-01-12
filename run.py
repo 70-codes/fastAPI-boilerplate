@@ -1,4 +1,3 @@
-#!/home/creed347/anaconda3/envs/fastAPI/bin/python
 import uvicorn
 
 
