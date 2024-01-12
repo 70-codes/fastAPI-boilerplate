@@ -4,8 +4,8 @@ import uvicorn
 def main():
     uvicorn.run(
         "main:app",
-        host="localhost",
-        port=8080,
+        host="0.0.0.0",
+        port=8000,
         reload=True,
     )
 
